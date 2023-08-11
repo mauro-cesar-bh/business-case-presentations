@@ -1,2 +1,3 @@
 # business-case-presentations
-Business Case samples
+This folder contains samples of business case presentations for various topics
+
